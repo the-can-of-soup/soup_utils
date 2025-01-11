@@ -4,12 +4,12 @@ A collection of extensions for [PenguinMod](https://penguinmod.com/)/[TurboWarp]
 
 * #### <img src="https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/images/soup_utils_menu_icon.svg" width="25" /> Soup Utils v4.4 (32 blocks)  
   URL: [`https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_utils.js`](https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_utils.js)
-* #### <img src="https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/images/soup_objects_menu_icon.svg" width="25" /> Soup Objects v4.2 (23 blocks)  
-  URL: [`https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_objects.js`](https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_objects.js)
-* #### <img src="https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/images/soup_arrays_menu_icon.svg" width="25" /> Soup Arrays v4.2 (51 blocks)  
-  URL: [`https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_arrays.js`](https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_arrays.js)
 * #### <img src="https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/images/soup_vectors_menu_icon.svg" width="25" /> Soup Vectors v5.1 (60 blocks)  
   URL: [`https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_vectors.js`](https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_vectors.js)
+* #### <img src="https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/images/soup_arrays_menu_icon.svg" width="25" /> Soup Arrays v4.2 (51 blocks)  
+  URL: [`https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_arrays.js`](https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_arrays.js)
+* #### <img src="https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/images/soup_objects_menu_icon.svg" width="25" /> Soup Objects v4.2 (23 blocks)  
+  URL: [`https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_objects.js`](https://raw.githubusercontent.com/the-can-of-soup/soup_utils/refs/heads/main/extensions/soup_objects.js)
 
 ## How to import an extension
 
@@ -33,3 +33,7 @@ A collection of extensions for [PenguinMod](https://penguinmod.com/)/[TurboWarp]
 6. Click the dotted rectangle and choose the file you downloaded.
 7. **Check "Run without sandbox".** _This is required. Importing without enabling this causes a crash._
 8. Click "Load".
+
+## My PenguinMod Project
+
+Check out [this showcase](https://studio.penguinmod.com/?fps=60&offscreen&nohqpen&size=640x360#8164509184) of the extensions!
