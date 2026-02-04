@@ -37,3 +37,5 @@ A collection of extensions for [PenguinMod](https://penguinmod.com/)/[TurboWarp]
 ## My PenguinMod Project
 
 Check out [this showcase](https://studio.penguinmod.com/?fps=60&offscreen&nohqpen&size=640x360#8164509184) of the extensions!
+
+**Edit:** [RIP PenguinMod servers :(](https://penguinmod.com/devposts/3-18-2025-shutdown-incident)
